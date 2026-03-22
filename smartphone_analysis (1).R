@@ -1,4 +1,3 @@
-# Smartphone usage and productivity - individual project
 # Research question: can we identify different types of smartphone users
 # and does usage behavior relate to productivity and stress?
 
