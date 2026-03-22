@@ -32,15 +32,21 @@ The dataset contains information about:
 ## Methods Used
 
 1.Linear Regression
+
 2.Exploratory Data Analysis (EDA)
+
 3.Data Visualization
+
 4.Correlation Analysis
 
 ## Tools & Libraries
 
 1.R
+
 2.ggplot2
+
 3.dplyr
+
 4.tidyr
 
 
