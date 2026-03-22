@@ -8,8 +8,11 @@ This project explores the relationship between smartphone usage patterns and use
 ## Objectives
 
 1.Analyze how smartphone usage affects productivity
+
 2.Identify key factors influencing user behavior
+
 3.Apply statistical learning methods to extract insights
+
 4.Visualize patterns and trends in the dataset
 
 
@@ -19,8 +22,11 @@ This project explores the relationship between smartphone usage patterns and use
 The dataset contains information about:
 
 1.Daily smartphone usage (hours)
+
 2.App usage patterns
+
 3.Screen time
+
 4.Productivity scores
 
 ## Methods Used
