@@ -7,10 +7,10 @@ This project explores the relationship between smartphone usage patterns and use
 
 ## Objectives
 
-Analyze how smartphone usage affects productivity
-Identify key factors influencing user behavior
-Apply statistical learning methods to extract insights
-Visualize patterns and trends in the dataset
+1.Analyze how smartphone usage affects productivity
+2.Identify key factors influencing user behavior
+3.Apply statistical learning methods to extract insights
+4.Visualize patterns and trends in the dataset
 
 
 
@@ -18,24 +18,24 @@ Visualize patterns and trends in the dataset
 
 The dataset contains information about:
 
-Daily smartphone usage (hours)
-App usage patterns
-Screen time
-Productivity scores
+1.Daily smartphone usage (hours)
+2.App usage patterns
+3.Screen time
+4.Productivity scores
 
 ## Methods Used
 
-Linear Regression
-Exploratory Data Analysis (EDA)
-Data Visualization
-Correlation Analysis
+1.Linear Regression
+2.Exploratory Data Analysis (EDA)
+3.Data Visualization
+4.Correlation Analysis
 
 ## Tools & Libraries
 
-R
-ggplot2
-dplyr
-tidyr
+1.R
+2.ggplot2
+3.dplyr
+4.tidyr
 
 
 ## Project Structure
@@ -46,9 +46,9 @@ tidyr
 
 ## Key Insights
 
-Increased screen time shows a negative correlation with productivity
-Certain app usage patterns significantly impact user efficiency
-Visualizations reveal clear behavioral trends
+1. Increased screen time shows a negative correlation with productivity
+2. Certain app usage patterns significantly impact user efficiency
+3. Visualizations reveal clear behavioral trends
 
 
 ## How to Run the Project
@@ -69,15 +69,15 @@ Visualizations reveal clear behavioral trends
 
 The project generates:
 
-Data visualizations (plots)
-Statistical summaries
-Model results
+1. Data visualizations (plots)
+2. Statistical summaries
+3. Model results
 
 
 ## Future Improvements
-Add machine learning models (Random Forest, SVM)
-Build an interactive dashboard using Shiny
-Expand dataset for deeper analysis
+1. Add machine learning models (Random Forest, SVM)
+2. Build an interactive dashboard using Shiny
+3. Expand dataset for deeper analysis
 
 
 ## Author
