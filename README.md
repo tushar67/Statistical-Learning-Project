@@ -75,7 +75,7 @@ The project generates:
 
 
 ## Future Improvements
-1. Add machine learning models (Random Forest, SVM)
+1. Add machine learning models (SVM)
 2. Build an interactive dashboard using Shiny
 3. Expand dataset for deeper analysis
 
